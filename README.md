@@ -1,5 +1,5 @@
 # Machine-Learning-2
-Topic : Student Performance Data Set 
+Topic : Decision Tree on Student Performance Data Set 
 
 Language / Application: Python in Jupyter Notebook
 
